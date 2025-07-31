@@ -1,0 +1,7 @@
+organization=manueltablado
+projectKey=manueltablado_hugo-profile-master
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.65836
+dashboardUrl=https://sonarcloud.io/dashboard?id=manueltablado_hugo-profile-master
+ceTaskId=AZhhQB_BUr85yYUSCY4A
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZhhQB_BUr85yYUSCY4A
